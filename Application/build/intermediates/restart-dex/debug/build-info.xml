@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="23"
+    density="560dpi"
+    format="7"
+    timestamp="1388032243835455"
+    token="-2314069979162347923" >
+
+    <task
+        name="javac"
+        duration="164" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="191" />
+    <task
+        name="verifier"
+        duration="6" />
+
+    <artifact
+        location="/media/truecrypt11/QuyetDVDownload/SampleBasicTransition/Application/build/outputs/apk/Application-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="1388032243835455" >
+        <artifact
+            location="/media/truecrypt11/QuyetDVDownload/SampleBasicTransition/Application/build/outputs/apk/Application-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

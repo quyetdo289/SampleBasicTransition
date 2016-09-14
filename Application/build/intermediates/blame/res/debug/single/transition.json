@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/media/truecrypt11/QuyetDVDownload/SampleBasicTransition/Application/build/intermediates/res/merged/debug/transition/scene3_transition_manager.xml",
+        "source": "/media/truecrypt11/QuyetDVDownload/SampleBasicTransition/Application/src/main/res/transition/scene3_transition_manager.xml"
+    },
+    {
+        "merged": "/media/truecrypt11/QuyetDVDownload/SampleBasicTransition/Application/build/intermediates/res/merged/debug/transition/changebounds_fadein_together.xml",
+        "source": "/media/truecrypt11/QuyetDVDownload/SampleBasicTransition/Application/src/main/res/transition/changebounds_fadein_together.xml"
+    }
+]
